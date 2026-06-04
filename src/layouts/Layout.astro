@@ -1668,3 +1668,15 @@ function disableAnimation() {
     requestAnimationFrame(initImageLoadFadeIn);
   });
 </script>
+
+<script>
+  import { injectSpeedInsights } from '@vercel/speed-insights';
+  
+  // Inject Speed Insights on initial load
+  injectSpeedInsights();
+  
+  // Re-inject on page navigation (for SPAs using Swup)
+  document.addEventListener('astro:page-load', () => {
+    injectSpeedInsights();
+  });
+</script>

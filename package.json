@@ -21,6 +21,7 @@
     "@astrojs/check": "^0.9.9",
     "@astrojs/cloudflare": "^13.6.0",
     "@napi-rs/wasm-runtime": "^1.1.4",
+    "@vercel/speed-insights": "^2.0.0",
     "@astrojs/compiler-rs": "^0.2.1",
     "@astrojs/markdown-remark": "^7.2.0",
     "@astrojs/markdown-satteri": "^0.2.1",
