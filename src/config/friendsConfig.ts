@@ -32,6 +32,16 @@ export const friendsConfig: FriendLink[] = [
 		weight: 10, // 权重，数字越大排序越靠前
 		enabled: true, // 是否启用
 	},
+	// 示例：添加友链
+	// {
+	// 	title: "友链名称",
+	// 	imgurl: "https://example.com/avatar.jpg",
+	// 	desc: "友链描述",
+	// 	siteurl: "https://example.com",
+	// 	tags: ["Blog"],
+	// 	weight: 10,
+	// 	enabled: true,
+	// },
 	{
 		title: "Firefly Docs",
 		imgurl: "https://docs-firefly.cuteleaf.cn/logo.png",
