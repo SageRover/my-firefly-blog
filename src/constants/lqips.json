@@ -1,4 +1,6 @@
 {
+  "src:assets/images/default-avatar.png": "92c2df99bed7d5dcbd",
+  "src:assets/images/cover.jpeg": "94a5b98289a1797b90",
   "src:content/posts/images/vitepress.avif": "3d3d43e1e1e7ebe0da",
   "src:content/posts/images/right-grid2.avif": "cbcdcddddcd9d8d7db",
   "src:content/posts/images/obsidian.avif": "3a4145dce3e6e8ded8",
@@ -30,6 +32,6 @@
   "src:assets/images/DesktopWallpaper/d1.avif": "8b9bb59ba6bae7d7dd",
   "public:gallery/firefly-2026/cover.avif": "7588a28a8f989e8d88",
   "public:gallery/firefly-2026/1.avif": "c8bca9dde6d2babfb5",
-  "public:assets/images/sponsor/wechat.png": "d5d5d5dad9d7dbd8cf",
-  "public:assets/images/sponsor/alipay.png": "8ebbde91bedf93c0e0"
+  "public:assets/images/sponsor/wechat.png": "cfc7c3d1cac6cfc4b8",
+  "public:assets/images/sponsor/alipay.png": "99999999999a9c9c9d"
 }
