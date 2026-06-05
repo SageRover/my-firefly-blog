@@ -74,10 +74,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
-			subtitle: [
-				"代码如诗，逻辑如画",
-				"键盘敲落星辰，代码编织未来",
-			],
+			subtitle: ["代码如诗，逻辑如画", "键盘敲落星辰，代码编织未来"],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
 			typewriter: {
